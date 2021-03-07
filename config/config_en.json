@@ -8,13 +8,23 @@
         "home_url": "/en/",
         "items": [
             {
-                "url": "/get_started/en/",
-                "label": "Install",
+                "url": "/Q-Car/en/",
+                "label": "Q-Car",
                 "position": "left"
             },
             {
-                "url": "/develop/en/",
-                "label": "Develop",
+                "url": "/Triode-Car/en/",
+                "label": "Triode-Car",
+                "position": "left"
+            },
+            {
+                "url": "/Simple-Foc/en/",
+                "label": "Simple-Foc",
+                "position": "left"
+            },
+            {
+                "url": "/About/en/",
+                "label": "About",
                 "position": "left"
             },
             {
@@ -77,18 +87,6 @@
                         "target": "_blank"
                     }
                 ]
-            }
-        ],
-        "bottom": [
-            {
-                "label": "*ICP备********号-1",
-                "url": "https://beian.miit.gov.cn",
-                "target": "_blank"
-            },
-            {
-                "label": "*公网安备**************号",
-                "url": "https://beian.miit.gov.cn/#/Integrated/index",
-                "target": "_blank"
             }
         ]
     }

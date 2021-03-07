@@ -9,18 +9,28 @@
         "home_url": "/",
         "items": [
             {
-                "url": "/get_started/zh/",
-                "label": "安装使用",
+                "url": "/Q-Car/zh/",
+                "label": "Q-Car",
                 "position": "left"
             },
             {
-                "url": "/develop/zh/",
-                "label": "开发",
+                "url": "/Triode-Car/zh/",
+                "label": "Triode-Car",
                 "position": "left"
             },
             {
-                "url": "https://github.com/neutree/teedoc",
-                "label": "github",
+                "url": "/Simple-Foc/zh/",
+                "label": "Simple-Foc",
+                "position": "left"
+            },
+            {
+                "url": "/About/zh/",
+                "label": "About",
+                "position": "left"
+            },
+            {
+                "url": "https://github.com/BigQubot",
+                "label": "大球的Github",
                 "target": "_blank",
                 "position": "right"
             },
@@ -54,8 +64,8 @@
                         "target": "_blank"
                     },
                     {
-                        "label": "Copyright © 2021 Neucrack",
-                        "url": "https://neucrack.com",
+                        "label": "Copyright © 2021 Qubot",
+                        "url": "https://qubot.org",
                         "target": "_blank"
                     },
                     {
@@ -65,31 +75,19 @@
                 ]
             },
             {
-                "label": "源码",
+                "label": "看看大球的源码",
                 "items": [
                     {
-                        "label": "github",
-                        "url": "https://github.com/neutree/teedoc",
+                        "label": "Github",
+                        "url": "https://github.com/BigQubot",
                         "target": "_blank"
                     },
                     {
                         "label": "本网站源文件",
-                        "url": "https://github.com/teedoc/teedoc.github.io",
+                        "url": "https://github.com/BigQubot/WhatToDoNext",
                         "target": "_blank"
                     }
                 ]
-            }
-        ],
-        "bottom": [
-            {
-                "label": "*ICP备********号-1",
-                "url": "https://beian.miit.gov.cn",
-                "target": "_blank"
-            },
-            {
-                "label": "*公网安备**************号",
-                "url": "https://beian.miit.gov.cn/#/Integrated/index",
-                "target": "_blank"
             }
         ]
     },

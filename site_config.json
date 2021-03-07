@@ -7,10 +7,14 @@
     "config_template_dir": "config",
     "route": {
         "docs": {
-            "/get_started/zh/": "docs/get_started/zh",
-            "/get_started/en/": "docs/get_started/en",
-            "/develop/zh/": "docs/develop/zh",
-            "/develop/en/": "docs/develop/en"
+            "/Q-Car/zh/": "docs/Q-Car/zh",
+            "/Q-Car/en/": "docs/Q-Car/en",
+            "/Simple-Foc/zh/": "docs/Simple-Foc/zh",
+            "/Simple-Foc/en/": "docs/Simple-Foc/en",
+            "/Triode-Car/zh/": "docs/Triode-Car/zh",
+            "/Triode-Car/en/": "docs/Triode-Car/en",
+            "/About/zh/": "docs/About/zh",
+            "/About/en/": "docs/About/en"
         },
         "pages": {
             "/": "pages/index/zh",
@@ -18,7 +22,7 @@
         },
         "assets": {
             "/static/": "static",
-            "/get_started/assets/": "docs/get_started/assets"
+            "/Q-Car/assets/": "docs/Q-Car/assets"
         },
         "/blog/": "blog"
     },
