@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html  class="language_zh">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="teedoc, 写文档, 注意点">
+    <meta name="description" content="teedoc， 将 markdown 或者 jupyter notbook 转换成 html 静态网页， 介绍了使用 teedoc 写文档时的注意点">
+    <meta name="generator" content="teedoc">
+    <meta name="markdown-generator" content="teedoc-plugin-markdown-parser">
+        <link rel="stylesheet" href="/static/css/theme_default/prism.min.css" type="text/css"/>
+        <link rel="stylesheet" href="/static/css/theme_default/dark.css" type="text/css"/>
+        <link rel="stylesheet" href="/static/css/theme_default/light.css" type="text/css"/>
+        <link rel="stylesheet" href="/static/css/custom.css" type="text/css"/>
+        <script src="/static/js/theme_default/jquery.min.js"></script>
+        <script src="/static/js/theme_default/pre_main.js"></script>
+        <link rel="stylesheet" href="/static/css/search/style.css" type="text/css"/>
+    <title>写文档的注意点 - Qubot</title>
+</head>
+<body>
+    
+            <div id="navbar">
+                <div id="navbar_menu">
+                    <a class="site_title" href="/"><img class="site_logo" src="/static/image/logo.png" alt="teedoc logo"><h2>Qubot</h2></a>
+                    <a id="navbar_menu_btn"></a>
+                </div>
+                <div id="navbar_items">
+                    <div>
+                        <ul id="nav_left">
+<li class=""><a  href="/Q-Car/zh/">Q-Car</a></li>
+<li class=""><a  href="/Triode-Car/zh/">Triode-Car</a></li>
+<li class="sub_items "><a  href="">Afterworks:Simple-Foc</a><ul><li class="active"><a  href="/Simple-Foc/zh/">Simple-Foc</a></li>
+<li class=""><a  href="/Drive-X/zh/">Drive-X</a></li>
+</ul></li>
+<li class=""><a  href="/About/zh/">About Qubot</a></li>
+</ul>
+
+                    </div>
+                    <div>
+                        <ul id="nav_right">
+<li class=""><a target="_blank" href="https://github.com/BigQubot">大球的Github</a></li>
+<li class="sub_items "><a  href="">Language: </a><ul><li class=""><a  href="/get_started/zh/">中文</a></li>
+<li class=""><a  href="/get_started/en/">English</a></li>
+</ul></li>
+</ul>
+
+                        <ul class="nav_plugins"><li><a id="themes" class="light"></a></li></ul><ul class="nav_plugins"><li><a id="search"><span class="icon"></span><span class="placeholder">搜索</span>
+                            <div id="search_hints">
+                                <span id="search_input_hint">输入关键词，多关键词空格隔开</span>
+                                <span id="search_loading_hint">正在加载，请稍候。。。</span>
+                                <span id="search_download_err_hint">下载文件失败，请刷新重试或检查网络</span>
+                                <span id="search_other_docs_result_hint">来自其它文档的结果</span>
+                                <span id="search_curr_doc_result_hint">当前文档搜索结果</span>
+                            </div></a></li></ul>
+                    </div>
+                </div>
+            </div>
+    
+        <div id="wrapper">
+            
+            <div id="sidebar_wrapper">
+                <div id="sidebar">
+                    <div id="sidebar_title">
+                        
+                    </div>
+                    <ul class="show">
+<li class="not_active with_link"><a href="/Simple-Foc/zh/index.html"><span class="label">Foc介绍</span><span class=""></span></a></li>
+<li class="not_active with_link"><a href="/Simple-Foc/zh/Foc/index.html"><span class="label">常见Foc</span><span class="sub_indicator sub_indicator_collapsed"></span></a><ul class="">
+<li class="not_active with_link"><a href="/Simple-Foc/zh/Foc/SimpleFoc.html"><span class="label">SimpleFoc</span><span class=""></span></a></li>
+<li class="not_active with_link"><a href="/Simple-Foc/zh/plugins/others.html"><span class="label">其它插件</span><span class=""></span></a></li>
+</ul>
+</li>
+<li class="active_parent with_link"><a href="/Simple-Foc/zh/letsgo/dowhat.html"><span class="label">大球要做啥</span><span class="sub_indicator"></span></a><ul class="show">
+<li class="active with_link"><a href="/Simple-Foc/zh/letsgo/basic.html"><span class="label">需要掌握的基础知识</span><span class=""></span></a></li>
+<li class="not_active with_link"><a href="/Simple-Foc/zh/letsgo/whatihave.html"><span class="label">现在有什么</span><span class=""></span></a></li>
+<li class="not_active with_link"><a href="/Simple-Foc/zh/letsgo/choose.html"><span class="label">选型</span><span class=""></span></a></li>
+<li class="not_active with_link"><a href="/Simple-Foc/zh/letsgo/start.html"><span class="label">开始做</span><span class=""></span></a></li>
+</ul>
+</li>
+<li class="not_active with_link"><a href="/Simple-Foc/zh/done/index.html"><span class="label">成果</span><span class=""></span></a></li>
+</ul>
+
+                </div>
+            </div>
+            <div id="menu_wrapper">
+                                    <div id="menu">
+                                    </div>
+                                </div>
+            <div id="article">
+                <div id="content_wrapper">
+                    <div id="content_body">
+                        <div id="article_title">
+                            <h1>写文档的注意点</h1>
+                        </div>
+                        <div id="article_tags">
+                            <ul></ul>
+                        </div>
+                        <div id="article_content">
+                            <h2 id="-1">相对路径问题</h2>
+
+<p>在<code>config.json</code>中写链接路径时，尽量写规范，比如<code>/get_started/zh/</code>， 而不是<code>/get_started/zh</code></p>
+
+<p>即如果对应的路径不是文件，而是一个目录， 则必须在后面加一个<code>/</code>，让浏览器知道这是一个目录，<br />
+这样我们在<code>md</code>文件中写相对路径比如<code>../assets/image/screenshot.png</code>就会转换为<code>/get_started/assets/image/screenshot.png</code><br />
+如果是<code>/get_started/zh</code>， 浏览器就会解析为<code>/assets/image/screenshot.png</code>，就是错误的地址，就会找不到图片！</p>
+
+<p>当然，你也可以选择使用绝对路径</p>
+
+                        </div>
+                    </div>
+                    <div id="previous_next">
+                        <div id="previous">
+                            <a href="/Simple-Foc/zh/letsgo/dowhat.html"><span class="icon"></span><span class="label">大球要做啥</span></a>
+                        </div>
+                        <div id="next">
+                            <a href="/Simple-Foc/zh/letsgo/whatihave.html"><span class="label">现在有什么</span><span class="icon"></span></a>
+                        </div>
+                    </div>
+                </div>
+                <div id="toc">
+                    <div>
+                        <ul>
+  <li><a href="#-1">相对路径问题</a></li>
+</ul>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <a id="to_top" href="#"></a>
+        <div id="doc_footer">
+                        
+            <div id="footer">
+                <div id="footer_top">
+                    <ul>
+<li><a>链接</a><ul><li><a target="_blank" href="https://github.com/neutree/teedoc">使用 teedoc 构建</a></li>
+<li><a target="_blank" href="https://qubot.org">Copyright © 2021 Qubot</a></li>
+<li><a  href="/sitemap.xml">网站地图</a></li>
+</ul>
+</li>
+<li><a>看看大球的源码</a><ul><li><a target="_blank" href="https://github.com/BigQubot">Github</a></li>
+<li><a target="_blank" href="https://github.com/BigQubot/WhatToDoNext">本网站源文件</a></li>
+</ul>
+</li>
+</ul>
+
+                </div>
+                <div id="footer_bottom">
+                    <ul>
+</ul>
+
+                </div>
+            </div>
+                    </div>
+</body>
+<script src="/static/js/theme_default/main.js"></script>
+<script src="/static/css/theme_default/prism.min.js"></script>
+<script src="/static/js/custom.js"></script>
+<script src="/static/js/search/main.js"></script>
+<script type="text/javascript" src="/static/js/live.js"></script>
+</html>

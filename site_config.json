@@ -1,18 +1,20 @@
 {
-    "site_name": "teedoc",
-    "site_slogon": "happy to write",
+    "site_name": "Qubot",
+    "site_slogon": "happy to WaKeng",
     "site_root_url": "/",
-    "site_domain": "teedoc.github.io",
+    "site_domain": "https://qubot.org/wtd",
     "site_protocol": "https",
     "config_template_dir": "config",
     "route": {
         "docs": {
             "/Q-Car/zh/": "docs/Q-Car/zh",
             "/Q-Car/en/": "docs/Q-Car/en",
-            "/Simple-Foc/zh/": "docs/Simple-Foc/zh",
-            "/Simple-Foc/en/": "docs/Simple-Foc/en",
             "/Triode-Car/zh/": "docs/Triode-Car/zh",
             "/Triode-Car/en/": "docs/Triode-Car/en",
+            "/Simple-Foc/zh/": "docs/Simple-Foc/zh",
+            "/Simple-Foc/en/": "docs/Simple-Foc/en",
+            "/Drive-X/zh/": "docs/Drive-X/zh",
+            "/Drive-X/en/": "docs/Drive-X/en",
             "/About/zh/": "docs/About/zh",
             "/About/en/": "docs/About/en"
         },

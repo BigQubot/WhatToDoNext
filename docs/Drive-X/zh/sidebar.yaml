@@ -1,0 +1,21 @@
+items:
+-   label: Foc介绍
+    file: README.md
+-   label: 常见Foc
+    file: Foc/README.md
+    items:
+    -   label: SimpleFoc
+        file: Foc/SimpleFoc.md
+    -   label: 其它插件
+        file: plugins/others.md
+-   label: 大球要做啥
+    file: letsgo/dowhat.md
+    items:
+    -   label: 需要掌握的基础知识
+        file: letsgo/basic.md
+    -   label: 现在有什么
+        file: letsgo/whatihave.md
+    -   label: 开始做
+        file: letsgo/start.md
+-   label: 成果
+    file: done/README.md

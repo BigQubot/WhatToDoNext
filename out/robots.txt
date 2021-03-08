@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://teedoc.github.io/sitemap.xml
+Sitemap: https://https://qubot.org/wtd/sitemap.xml

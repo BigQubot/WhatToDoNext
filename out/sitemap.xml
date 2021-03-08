@@ -1,770 +1,872 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-            <loc>https://teedoc.github.io/Q-Car/zh/plugins/others.html</loc>
-            <lastmod>2021-03-08T08:39:18.742168</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/zh/index.html</loc>
+            <lastmod>2021-03-08T00:27:47.052191</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/zh/plugins/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.742168</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/zh/usage/deploy.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/zh/plugins/themes.html</loc>
-            <lastmod>2021-03-08T08:39:18.742168</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/zh/usage/deploy_cdn.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/zh/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.739175</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/zh/usage/seo.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/zh/syntax/syntax_markdown.html</loc>
-            <lastmod>2021-03-08T08:39:18.743165</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/zh/usage/sites.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/zh/usage/deploy.html</loc>
-            <lastmod>2021-03-08T08:39:18.743165</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/zh/plugins/index.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/zh/usage/deploy_cdn.html</loc>
-            <lastmod>2021-03-08T08:39:18.744162</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/zh/plugins/themes.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/zh/usage/deploy_github_pages.html</loc>
-            <lastmod>2021-03-08T08:39:18.744162</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/zh/usage/deploy_github_pages.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/zh/more/example_docs/doc1.html</loc>
-            <lastmod>2021-03-08T08:39:18.741171</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/zh/usage/deploy_nginx.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/zh/more/example_docs/doc2.html</loc>
-            <lastmod>2021-03-08T08:39:18.741171</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/zh/syntax/syntax_markdown.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/zh/openbox/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.740174</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/zh/openbox/index.html</loc>
+            <lastmod>2021-03-08T20:14:31.994231</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/zh/usage/deploy_nginx.html</loc>
-            <lastmod>2021-03-08T08:39:18.744162</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/zh/plugins/others.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/zh/usage/seo.html</loc>
-            <lastmod>2021-03-08T08:39:18.744162</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/zh/more/example_docs/doc1.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/zh/usage/sites.html</loc>
-            <lastmod>2021-03-08T08:39:18.744162</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/zh/more/example_docs/doc2.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/zh/usage/start.html</loc>
-            <lastmod>2021-03-08T08:39:18.745159</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/zh/usage/start.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/zh/usage/write_attention.html</loc>
-            <lastmod>2021-03-08T08:39:18.745159</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/zh/usage/write_attention.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/en/plugins/others.html</loc>
-            <lastmod>2021-03-08T08:39:18.734188</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/en/usage/write_attention.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/en/plugins/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.734188</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/en/index.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/en/plugins/themes.html</loc>
-            <lastmod>2021-03-08T08:39:18.735185</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/en/install/index.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/en/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.732193</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/en/more/example_docs/doc1.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/en/install/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.733191</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/en/usage/deploy_nginx.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/en/more/example_docs/doc1.html</loc>
-            <lastmod>2021-03-08T08:39:18.734188</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/en/usage/seo.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/en/more/example_docs/doc2.html</loc>
-            <lastmod>2021-03-08T08:39:18.734188</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/en/usage/deploy_cdn.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/en/syntax/syntax_markdown.html</loc>
-            <lastmod>2021-03-08T08:39:18.735185</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/en/usage/deploy_github_pages.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/en/usage/deploy.html</loc>
-            <lastmod>2021-03-08T08:39:18.736183</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/en/plugins/index.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/en/usage/deploy_cdn.html</loc>
-            <lastmod>2021-03-08T08:39:18.737181</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/en/plugins/themes.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/en/usage/deploy_github_pages.html</loc>
-            <lastmod>2021-03-08T08:39:18.737181</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/en/syntax/syntax_markdown.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/en/usage/deploy_nginx.html</loc>
-            <lastmod>2021-03-08T08:39:18.738178</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/en/usage/deploy.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/en/usage/seo.html</loc>
-            <lastmod>2021-03-08T08:39:18.738178</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/en/more/example_docs/doc2.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/en/usage/sites.html</loc>
-            <lastmod>2021-03-08T08:39:18.738178</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/en/plugins/others.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/en/usage/start.html</loc>
-            <lastmod>2021-03-08T08:39:18.739175</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/en/usage/sites.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Q-Car/en/usage/write_attention.html</loc>
-            <lastmod>2021-03-08T08:39:18.739175</lastmod>
+            <loc>https://https://qubot.org/wtd/Q-Car/en/usage/start.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/zh/plugins/others.html</loc>
-            <lastmod>2021-03-08T08:39:18.764610</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/zh/index.html</loc>
+            <lastmod>2021-03-07T22:40:03.079844</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/zh/plugins/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.764163</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/zh/usage/seo.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/zh/plugins/themes.html</loc>
-            <lastmod>2021-03-08T08:39:18.764610</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/zh/usage/sites.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/zh/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.761976</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/zh/usage/deploy.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/zh/syntax/syntax_markdown.html</loc>
-            <lastmod>2021-03-08T08:39:18.765527</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/zh/usage/deploy_cdn.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/zh/usage/deploy.html</loc>
-            <lastmod>2021-03-08T08:39:18.766032</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/zh/install/index.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/zh/usage/deploy_cdn.html</loc>
-            <lastmod>2021-03-08T08:39:18.766032</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/zh/more/example_docs/doc1.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/zh/usage/deploy_github_pages.html</loc>
-            <lastmod>2021-03-08T08:39:18.766032</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/zh/usage/deploy_github_pages.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/zh/install/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.763001</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/zh/usage/deploy_nginx.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/zh/more/example_docs/doc1.html</loc>
-            <lastmod>2021-03-08T08:39:18.763658</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/zh/plugins/index.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/zh/more/example_docs/doc2.html</loc>
-            <lastmod>2021-03-08T08:39:18.763658</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/zh/plugins/themes.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/zh/usage/deploy_nginx.html</loc>
-            <lastmod>2021-03-08T08:39:18.766032</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/zh/syntax/syntax_markdown.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/zh/usage/seo.html</loc>
-            <lastmod>2021-03-08T08:39:18.767036</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/zh/more/example_docs/doc2.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/zh/usage/sites.html</loc>
-            <lastmod>2021-03-08T08:39:18.767036</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/zh/plugins/others.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/zh/usage/start.html</loc>
-            <lastmod>2021-03-08T08:39:18.768032</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/zh/usage/start.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/zh/usage/write_attention.html</loc>
-            <lastmod>2021-03-08T08:39:18.768032</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/zh/usage/write_attention.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/en/plugins/others.html</loc>
-            <lastmod>2021-03-08T08:39:18.758252</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/en/usage/write_attention.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/en/plugins/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.758252</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/en/index.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/en/plugins/themes.html</loc>
-            <lastmod>2021-03-08T08:39:18.758252</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/en/install/index.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/en/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.755363</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/en/more/example_docs/doc1.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/en/install/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.757127</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/en/usage/deploy_nginx.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/en/more/example_docs/doc1.html</loc>
-            <lastmod>2021-03-08T08:39:18.757748</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/en/usage/seo.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/en/more/example_docs/doc2.html</loc>
-            <lastmod>2021-03-08T08:39:18.757748</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/en/usage/deploy_cdn.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/en/syntax/syntax_markdown.html</loc>
-            <lastmod>2021-03-08T08:39:18.759641</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/en/usage/deploy_github_pages.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/en/usage/deploy.html</loc>
-            <lastmod>2021-03-08T08:39:18.759641</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/en/plugins/index.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/en/usage/deploy_cdn.html</loc>
-            <lastmod>2021-03-08T08:39:18.759641</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/en/plugins/themes.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/en/usage/deploy_github_pages.html</loc>
-            <lastmod>2021-03-08T08:39:18.760417</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/en/syntax/syntax_markdown.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/en/usage/deploy_nginx.html</loc>
-            <lastmod>2021-03-08T08:39:18.760417</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/en/usage/deploy.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/en/usage/seo.html</loc>
-            <lastmod>2021-03-08T08:39:18.760922</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/en/more/example_docs/doc2.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/en/usage/sites.html</loc>
-            <lastmod>2021-03-08T08:39:18.760922</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/en/plugins/others.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/en/usage/start.html</loc>
-            <lastmod>2021-03-08T08:39:18.761471</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/en/usage/sites.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Simple-Foc/en/usage/write_attention.html</loc>
-            <lastmod>2021-03-08T08:39:18.761471</lastmod>
+            <loc>https://https://qubot.org/wtd/Triode-Car/en/usage/start.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/zh/plugins/others.html</loc>
-            <lastmod>2021-03-08T08:39:18.786981</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/zh/letsgo/choose.html</loc>
+            <lastmod>2021-03-09T00:50:15.189533</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/zh/plugins/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.785985</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/zh/letsgo/dowhat.html</loc>
+            <lastmod>2021-03-08T22:51:36.181031</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/zh/plugins/themes.html</loc>
-            <lastmod>2021-03-08T08:39:18.786981</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/zh/index.html</loc>
+            <lastmod>2021-03-08T23:10:42.995448</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/zh/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.783990</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/zh/Foc/SimpleFoc.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/zh/install/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.784986</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/zh/letsgo/basic.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/zh/more/example_docs/doc1.html</loc>
-            <lastmod>2021-03-08T08:39:18.785985</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/zh/done/index.html</loc>
+            <lastmod>2021-03-08T22:07:42.537623</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/zh/more/example_docs/doc2.html</loc>
-            <lastmod>2021-03-08T08:39:18.785985</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/zh/Foc/index.html</loc>
+            <lastmod>2021-03-08T22:02:47.548826</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/zh/syntax/syntax_markdown.html</loc>
-            <lastmod>2021-03-08T08:39:18.787980</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/zh/letsgo/start.html</loc>
+            <lastmod>2021-03-08T22:02:46.318136</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/zh/usage/deploy.html</loc>
-            <lastmod>2021-03-08T08:39:18.788975</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/zh/letsgo/whatihave.html</loc>
+            <lastmod>2021-03-08T22:09:42.377478</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/zh/usage/deploy_cdn.html</loc>
-            <lastmod>2021-03-08T08:39:18.788975</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/en/usage/write_attention.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/zh/usage/deploy_github_pages.html</loc>
-            <lastmod>2021-03-08T08:39:18.788975</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/en/index.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/zh/usage/deploy_nginx.html</loc>
-            <lastmod>2021-03-08T08:39:18.788975</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/en/install/index.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/zh/usage/seo.html</loc>
-            <lastmod>2021-03-08T08:39:18.789973</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/en/more/example_docs/doc1.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/zh/usage/sites.html</loc>
-            <lastmod>2021-03-08T08:39:18.789973</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/en/usage/deploy_nginx.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/zh/usage/start.html</loc>
-            <lastmod>2021-03-08T08:39:18.789973</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/en/usage/seo.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/zh/usage/write_attention.html</loc>
-            <lastmod>2021-03-08T08:39:18.789973</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/en/usage/deploy_cdn.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/en/plugins/others.html</loc>
-            <lastmod>2021-03-08T08:39:18.780001</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/en/usage/deploy_github_pages.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/en/plugins/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.780001</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/en/plugins/index.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/en/plugins/themes.html</loc>
-            <lastmod>2021-03-08T08:39:18.780998</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/en/plugins/themes.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/en/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.778005</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/en/syntax/syntax_markdown.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/en/install/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.779003</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/en/usage/deploy.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/en/more/example_docs/doc1.html</loc>
-            <lastmod>2021-03-08T08:39:18.779003</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/en/more/example_docs/doc2.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/en/more/example_docs/doc2.html</loc>
-            <lastmod>2021-03-08T08:39:18.780001</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/en/plugins/others.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/en/syntax/syntax_markdown.html</loc>
-            <lastmod>2021-03-08T08:39:18.780998</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/en/usage/sites.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/en/usage/deploy.html</loc>
-            <lastmod>2021-03-08T08:39:18.781995</lastmod>
+            <loc>https://https://qubot.org/wtd/Simple-Foc/en/usage/start.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/en/usage/deploy_cdn.html</loc>
-            <lastmod>2021-03-08T08:39:18.781995</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/zh/Foc/index.html</loc>
+            <lastmod>2021-03-08T22:02:47.548826</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/en/usage/deploy_github_pages.html</loc>
-            <lastmod>2021-03-08T08:39:18.781995</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/zh/letsgo/dowhat.html</loc>
+            <lastmod>2021-03-08T22:51:36.181031</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/en/usage/deploy_nginx.html</loc>
-            <lastmod>2021-03-08T08:39:18.781995</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/zh/letsgo/basic.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/en/usage/seo.html</loc>
-            <lastmod>2021-03-08T08:39:18.782992</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/zh/index.html</loc>
+            <lastmod>2021-03-08T21:45:35.732554</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/en/usage/sites.html</loc>
-            <lastmod>2021-03-08T08:39:18.782992</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/zh/Foc/SimpleFoc.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/en/usage/start.html</loc>
-            <lastmod>2021-03-08T08:39:18.782992</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/zh/done/index.html</loc>
+            <lastmod>2021-03-08T22:07:42.537623</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/Triode-Car/en/usage/write_attention.html</loc>
-            <lastmod>2021-03-08T08:39:18.783990</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/zh/letsgo/start.html</loc>
+            <lastmod>2021-03-08T22:02:46.318136</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/zh/plugins/others.html</loc>
-            <lastmod>2021-03-08T08:39:18.718231</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/zh/letsgo/whatihave.html</loc>
+            <lastmod>2021-03-08T22:09:42.377478</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/zh/plugins/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.718231</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/en/usage/write_attention.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/zh/plugins/themes.html</loc>
-            <lastmod>2021-03-08T08:39:18.718231</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/en/index.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/zh/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.716237</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/en/usage/deploy_nginx.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/zh/syntax/syntax_markdown.html</loc>
-            <lastmod>2021-03-08T08:39:18.719228</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/en/usage/seo.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/zh/usage/deploy.html</loc>
-            <lastmod>2021-03-08T08:39:18.720225</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/en/install/index.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/zh/usage/deploy_cdn.html</loc>
-            <lastmod>2021-03-08T08:39:18.720225</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/en/more/example_docs/doc1.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/zh/usage/deploy_github_pages.html</loc>
-            <lastmod>2021-03-08T08:39:18.720225</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/en/usage/deploy_cdn.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/zh/install/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.717234</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/en/usage/deploy_github_pages.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/zh/more/example_docs/doc1.html</loc>
-            <lastmod>2021-03-08T08:39:18.717234</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/en/plugins/index.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/zh/more/example_docs/doc2.html</loc>
-            <lastmod>2021-03-08T08:39:18.717234</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/en/plugins/themes.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/zh/usage/deploy_nginx.html</loc>
-            <lastmod>2021-03-08T08:39:18.720225</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/en/syntax/syntax_markdown.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/zh/usage/seo.html</loc>
-            <lastmod>2021-03-08T08:39:18.721223</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/en/usage/deploy.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/zh/usage/sites.html</loc>
-            <lastmod>2021-03-08T08:39:18.721223</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/en/more/example_docs/doc2.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/zh/usage/start.html</loc>
-            <lastmod>2021-03-08T08:39:18.722220</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/en/plugins/others.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/zh/usage/write_attention.html</loc>
-            <lastmod>2021-03-08T08:39:18.722220</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/en/usage/sites.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/en/plugins/others.html</loc>
-            <lastmod>2021-03-08T08:39:18.712246</lastmod>
+            <loc>https://https://qubot.org/wtd/Drive-X/en/usage/start.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/en/plugins/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.712246</lastmod>
+            <loc>https://https://qubot.org/wtd/About/zh/index.html</loc>
+            <lastmod>2021-03-07T22:40:03.079844</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/en/plugins/themes.html</loc>
-            <lastmod>2021-03-08T08:39:18.712246</lastmod>
+            <loc>https://https://qubot.org/wtd/About/zh/usage/deploy.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/en/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.710252</lastmod>
+            <loc>https://https://qubot.org/wtd/About/zh/usage/deploy_cdn.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/en/install/index.html</loc>
-            <lastmod>2021-03-08T08:39:18.711251</lastmod>
+            <loc>https://https://qubot.org/wtd/About/zh/usage/seo.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/en/more/example_docs/doc1.html</loc>
-            <lastmod>2021-03-08T08:39:18.711251</lastmod>
+            <loc>https://https://qubot.org/wtd/About/zh/usage/sites.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/en/more/example_docs/doc2.html</loc>
-            <lastmod>2021-03-08T08:39:18.711251</lastmod>
+            <loc>https://https://qubot.org/wtd/About/zh/install/index.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/en/syntax/syntax_markdown.html</loc>
-            <lastmod>2021-03-08T08:39:18.713245</lastmod>
+            <loc>https://https://qubot.org/wtd/About/zh/more/example_docs/doc1.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/en/usage/deploy.html</loc>
-            <lastmod>2021-03-08T08:39:18.714242</lastmod>
+            <loc>https://https://qubot.org/wtd/About/zh/plugins/index.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/en/usage/deploy_cdn.html</loc>
-            <lastmod>2021-03-08T08:39:18.714242</lastmod>
+            <loc>https://https://qubot.org/wtd/About/zh/plugins/themes.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/en/usage/deploy_github_pages.html</loc>
-            <lastmod>2021-03-08T08:39:18.714242</lastmod>
+            <loc>https://https://qubot.org/wtd/About/zh/usage/deploy_github_pages.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/en/usage/deploy_nginx.html</loc>
-            <lastmod>2021-03-08T08:39:18.714242</lastmod>
+            <loc>https://https://qubot.org/wtd/About/zh/usage/deploy_nginx.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/en/usage/seo.html</loc>
-            <lastmod>2021-03-08T08:39:18.714242</lastmod>
+            <loc>https://https://qubot.org/wtd/About/zh/syntax/syntax_markdown.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/en/usage/sites.html</loc>
-            <lastmod>2021-03-08T08:39:18.715239</lastmod>
+            <loc>https://https://qubot.org/wtd/About/zh/more/example_docs/doc2.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/en/usage/start.html</loc>
-            <lastmod>2021-03-08T08:39:18.715239</lastmod>
+            <loc>https://https://qubot.org/wtd/About/zh/plugins/others.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://teedoc.github.io/About/en/usage/write_attention.html</loc>
-            <lastmod>2021-03-08T08:39:18.715239</lastmod>
+            <loc>https://https://qubot.org/wtd/About/zh/usage/start.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://https://qubot.org/wtd/About/zh/usage/write_attention.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://https://qubot.org/wtd/About/en/usage/write_attention.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://https://qubot.org/wtd/About/en/index.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://https://qubot.org/wtd/About/en/usage/deploy_nginx.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://https://qubot.org/wtd/About/en/usage/seo.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://https://qubot.org/wtd/About/en/install/index.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://https://qubot.org/wtd/About/en/more/example_docs/doc1.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://https://qubot.org/wtd/About/en/usage/deploy_cdn.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://https://qubot.org/wtd/About/en/usage/deploy_github_pages.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://https://qubot.org/wtd/About/en/plugins/index.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://https://qubot.org/wtd/About/en/plugins/themes.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://https://qubot.org/wtd/About/en/syntax/syntax_markdown.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://https://qubot.org/wtd/About/en/usage/deploy.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://https://qubot.org/wtd/About/en/more/example_docs/doc2.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://https://qubot.org/wtd/About/en/plugins/others.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://https://qubot.org/wtd/About/en/usage/sites.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://https://qubot.org/wtd/About/en/usage/start.html</loc>
+            <lastmod>2021-03-06T17:09:23</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>

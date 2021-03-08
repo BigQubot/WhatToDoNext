@@ -1,13 +1,13 @@
 ---
-title: teedoc
+title: Foc介绍
 keywords: teedoc, markdown, jupyter notebook, html, 文档生成, 替代gitbook, 网站生成, 静态网站
 desc: teedoc， 将 markdown 或者 jupyter notbook 转换成 html 静态网页
 ---
 
 
 FOC（Field-Oriented Control），即磁场定向控制，也称矢量变频，是目前无刷直流电机（BLDC）和永磁同步电机（PMSM）高效控制的最佳选择。FOC精确地控制磁场大小与方向，使得电机转矩平稳、噪声小、效率高，并且具有高速的动态响应。由于FOC的优势明显，目前已在很多应用上逐步替代传统的控制方式，在运动控制行业中备受瞩目。
-本文档源文件: [github.com/teedoc/teedoc.github.io](https://github.com/teedoc/teedoc.github.io)
-源码: [https://github.com/teedoc/teedoc](https://github.com/teedoc/teedoc) 欢迎 star
+SimpleFoc官网: [](https://github.com/teedoc/teedoc.github.io)
+SimpleFoc源码: [https://github.com/simplefoc/Arduino-SimpleFOCShield](https://github.com/simplefoc/Arduino-SimpleFOCShield) 
 
 将 `Markdown` 或者 `Jupyter Notebook` 格式的文档转换为 `HTML` 网页
 

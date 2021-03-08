@@ -1,6 +1,6 @@
 {
     "navbar": {
-        "title": "teedoc",
+        "title": "Qubot",
         "logo": {
             "alt": "teedoc logo",
             "src": "/static/image/logo.png"
@@ -18,13 +18,25 @@
                 "position": "left"
             },
             {
-                "url": "/Simple-Foc/en/",
-                "label": "Simple-Foc",
-                "position": "left"
+                "id": "Afterworks",
+                "label": "Afterworks:",
+                "position": "left",
+                "items": [
+                    {
+                        "id": "Foc",
+                        "url": "/Simple-Foc/en/",
+                        "label": "Simple-Foc"
+                    },
+                    {
+                        "id": "Drive-X",
+                        "url": "/Drive-X/en/",
+                        "label": "Drive-X"
+                    }
+                ]
             },
             {
                 "url": "/About/en/",
-                "label": "About",
+                "label": "About Qubot",
                 "position": "left"
             },
             {
@@ -63,8 +75,8 @@
                         "target": "_blank"
                     },
                     {
-                        "label": "Copyright © 2021 Neucrack",
-                        "url": "https://neucrack.com",
+                        "label": "Copyright © 2021 Qubot",
+                        "url": "https://qubot.org",
                         "target": "_blank"
                     },
                     {

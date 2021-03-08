@@ -1,7 +1,7 @@
 {
     "class": "language_zh",
     "navbar": {
-        "title": "teedoc",
+        "title": "Qubot",
         "logo": {
             "alt": "teedoc logo",
             "src": "/static/image/logo.png"
@@ -19,13 +19,25 @@
                 "position": "left"
             },
             {
-                "url": "/Simple-Foc/zh/",
-                "label": "Simple-Foc",
-                "position": "left"
+                "id": "Afterworks",
+                "label": "Afterworks:",
+                "position": "left",
+                "items": [
+                    {
+                        "id": "Foc",
+                        "url": "/Simple-Foc/zh/",
+                        "label": "Simple-Foc"
+                    },
+                    {
+                        "id": "Drive-X",
+                        "url": "/Drive-X/zh/",
+                        "label": "Drive-X"
+                    }
+                ]
             },
             {
                 "url": "/About/zh/",
-                "label": "About",
+                "label": "About Qubot",
                 "position": "left"
             },
             {
