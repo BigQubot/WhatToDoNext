@@ -1,9 +1,9 @@
 items:
--   label: teedoc 简介
+-   label: Q-Car介绍
     file: README.md
--   label: 安装 teedoc
-    file: install/README.md
--   label: 开始写文档
+-   label: 开箱
+    file: openbox/README.md
+-   label: 上手
     file: usage/start.md
 -   label: 写文档时需注意
     file: usage/write_attention.md
