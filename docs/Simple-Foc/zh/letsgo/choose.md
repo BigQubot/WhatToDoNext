@@ -42,5 +42,8 @@ desc: teedoc， 将 markdown 或者 jupyter notbook 转换成 html 静态网页�
 
 # 驱动方案选型
 
+## L6234PD013TR
+大概看了下，SimpleFoc和智木创客工作室这两家用的方案都是这个
 
-
+## drv8313
+光树秫秫选用的是这个型号
